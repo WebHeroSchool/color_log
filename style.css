@@ -1,3 +1,21 @@
+/* @import url('https://fonts.googleapis.com/css?family=Merriweather|Playfair+Display&display=swap&subset=cyrillic,cyrillic-ext'); */
+
+.article-astra__content-title {
+    font-family: 'Merriweather', serif;
+}
+
+.content__text-astra {
+    font-family: 'Playfair Display', serif;
+}
+
+.content__text-orhid {
+    font-family: 'Playfair Display', serif;
+}
+
+.section__title {
+    font-family: 'Merriweather', serif;
+}
+
  .image_astra {
         float: right;
         margin: 47px 0 15px 15px;
